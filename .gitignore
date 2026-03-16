@@ -207,11 +207,12 @@ marimo/_lsp/
 __marimo__/
 
 # Data files (uncomment if needed)
-# *.csv
-# *.xlsx
-# data/
+*.csv
+*.xlsx
+data/
 
 # Model artifacts
 *.pkl
 *.joblib
 *.h5
+data/
